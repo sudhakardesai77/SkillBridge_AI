@@ -1,0 +1,60 @@
+[
+  {
+    "company": "Amazon",
+    "minCGPA": 8.0,
+    "skills": [
+      "Java",
+      "DSA",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks"
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "minCGPA": 8.0,
+    "skills": [
+      "C++",
+      "DSA",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks"
+    ]
+  },
+  {
+    "company": "Google",
+    "minCGPA": 8.5,
+    "skills": [
+      "Java",
+      "DSA",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks"
+    ]
+  },
+  {
+    "company": "Infosys",
+    "minCGPA": 6.5,
+    "skills": [
+      "Java",
+      "Python",
+      "DSA",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks",
+      "SQL"
+    ]
+  },
+  {
+    "company": "TCS Digital",
+    "minCGPA": 7.0,
+    "skills": [
+      "Java",
+      "DSA",
+      "DBMS",
+      "Operating Systems",
+      "Computer Networks",
+      "SQL"
+    ]
+  }
+]
